@@ -1,4 +1,5 @@
-# spotify-podcast-upload-checker
+# Does your video meet Spotify's requirements?
+![Your paragraph text](https://github.com/user-attachments/assets/c843cab3-dde1-44f6-8b90-96f70277bdbf)
 
 Spotify have very strict requirements for video to be added to podcast episodes.
 
